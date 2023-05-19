@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebKhoaHoc_API.props" />
+</Project>
